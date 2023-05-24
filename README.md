@@ -10,14 +10,7 @@ Additionally, `tex_cleanup` can run `pdflatex` on `.tex` files in the directory 
 
 ## Installation
 
-First, clone the repository from GitHub:
-
-```bash
-git clone https://github.com/username/tex_cleanup.git
-```
-
-Replace 'username' with the correct GitHub username
-
+First, clone the repository from GitHub.
 Navigate to the cloned directory:
 
 ```bash
